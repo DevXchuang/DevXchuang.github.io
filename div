@@ -1,16 +1,3 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xchuang Code</title>
-    <style type="text/css">
-        a{text-decoration:none;}
-    </style>
-    <link rel="icon" href="assets/code.ico">
-
-</head>
 <body oncontextmenu="return false" bgcolor="03111e" style="overflow:scroll;overflow-x:hidden">
     <center>
     <br><br><br><br><br>
@@ -53,5 +40,58 @@
     <br><font color="03111e" size="196px">▷▷</font><font color="white" size="6px">再加上unreal marketplace，就可以减少很多时间。</font>
     <br><font color="03111e" size="196px">▷▷</font><font color="white" size="6px">很多游戏都是用虚幻4制作的。</font><br><br><br><br>
     <div id="q"><center><a class="email" href="mailto:code.xchunag@gmail.com?subject=网站疑问"><font color="black" size="9px" style= "background:rgb(255, 255, 255)"> ▷提出疑问◁ </font></a></center><br><br><br></div>>
+</body>
+</html>
+
+<style type="text/css">
+        a{text-decoration:none;}
+    </style>
+
+
+
+
+
+all/html
+<link rel="icon" href="../../assets/code.ico">
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<style>
+.button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 20px;
+    cursor: pointer;
+}
+</style>
+<body oncontextmenu="return false" bgcolor="03111e" style="overflow:scroll;overflow-x:hidden">
+<center>
+
+<a href="../VBS/" class="button"> VBS </a>
+<br>
+<br>
+
+<a href="../html/" class="button">HTML</a>
+<br>
+<br>
+
+<a href="../unreal/" class="button">UnReal</a>
+<br>
+<br>
+
+<a href="../python/" class="button">Python</a>
+<br>
+<br>
+
+</center>
 </body>
 </html>
