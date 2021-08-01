@@ -1,0 +1,42 @@
+body{
+	user-select: none; 
+}
+
+.icon{ /*Class Icon 正常状态*/
+	position: absolute;
+	height: 48px;
+	width: 48px;
+	transition: 0.3s;
+	right: 30px;
+}
+.icon:hover{ /*class Icon 被鼠标悬停的状态*/
+	transform: scale(1.1) translateX(-10px);
+}
+
+.github{
+	background-image: url(github.png);
+	top: 48px;
+}
+
+.youtube{
+	background-image: url(youtube.png);
+	top: 106px;
+}
+
+button{
+	height: 106px;
+	width: 212px;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.0);
+	border: 2px solid white;
+	transition: 0.35s;
+	bottom: -50px;
+}
+
+button:hover{
+	transform: scale(1.05);
+	color: black;
+	border-radius: 10px;
+	background-color: white;
+	box-shadow: 0px 0px 50px white;
+}
